@@ -1,0 +1,43 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "home",
+      "href": "https://digikala.com"
+    },
+    {
+      "id": 2,
+      "name": "gallery",
+      "href": "https://aparat.com"
+    },
+    {
+      "id": 3,
+      "name": "about",
+      "href": "https://torob.com"
+    },
+    {
+      "id": 4,
+      "name": "contact",
+      "href": "https://filimo.com"
+    },
+    {
+      "id": 5,
+      "name": "blog",
+      "href": "https://filimo.com"
+    }
+  ],
+  "slider": [
+    {
+      "id": 1,
+      "href": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcooking.nytimes.com%2Fguides%2F1-how-to-make-pizza&psig=AOvVaw2xGnb8NpBWftBUdCQbdF79&ust=1728565514146000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND0rb-ugYkDFQAAAAAdAAAAABAJ"
+    },
+    {
+      "id": 2,
+      "href": "https://upload.wikimedia.org/wikipedia/commons/9/91/Pizza-3007395.jpg"
+    },
+    {
+      "id": 3,
+      "href": "https://www.simplyrecipes.com/thmb/KE6iMblr3R2Db6oE8HdyVsFSj2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-3-1024x682-583b275444104ef189d693a64df625da.jpg"
+    }
+  ]
+}
